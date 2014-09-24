@@ -1,0 +1,4 @@
+if jecrisdedans and maximeecritdedans then
+	error;
+endif
+

@@ -1,5 +1,5 @@
 c'est le bazaaaaaaaaaaaaaaaard
 if jecrisdedans and maximeecritdedans then
-	error;
+	blablabalbalbalablabaerror;
 endif
 

@@ -1,6 +1,1 @@
 c'est le bazaaaaaaaaaaaaaaaard
-if jecrisdedans and maximeecritdedans then
-	error;
-	echo "t'es bon pour resoudre le conflit"
-endif
-
